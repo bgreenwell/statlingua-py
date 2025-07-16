@@ -1,0 +1,2 @@
+litellm>=1.35.0
+statsmodels

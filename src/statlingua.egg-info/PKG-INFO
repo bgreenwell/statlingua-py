@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: statlingua
+Version: 0.1.0
+Summary: Effortlessly translate statistical model outputs into plain-language explanations using Large Language Models (LLMs).
+Author-email: Brandon Greenwell <greenwell.brandon@gmail.com>
+Project-URL: Homepage, https://github.com/bgreenwell/statlingua-py
+Project-URL: Bug Tracker, https://github.com/bgreenwell/statlingua-py/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Text Processing :: Linguistic
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: litellm>=1.35.0
+Requires-Dist: statsmodels
+Dynamic: license-file
